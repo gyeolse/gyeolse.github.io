@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-05-01
-title: "HTTP 이론 #1"
+title: "HTTP Theory #1"
 tags: [HTTP, ]
 categories: [Development, ]
 ---
@@ -38,7 +38,7 @@ categories: [Development, ]
 		- 웹 브라우저 사이트 요청 시, 수많은 자원 (HTML, JS, CSS.. ) 한꺼번에 다운로드
 		- **Persistent Connections 를 통해서 문제 해결. 연결을 일정 시간 동안 유지**
 
-			![0](/assets/img/2024-05-01-HTTP-이론-#1.md/0.png)
+			![0](/assets/img/2024-05-01-HTTP-Theory-#1.md/0.png)
 
 
 
@@ -50,7 +50,7 @@ categories: [Development, ]
 #### HTTP 메시지
 
 
-![1](/assets/img/2024-05-01-HTTP-이론-#1.md/1.png)
+![1](/assets/img/2024-05-01-HTTP-Theory-#1.md/1.png)
 
 
 요청 메시지와 응답 메시지의 구조가 다름 
