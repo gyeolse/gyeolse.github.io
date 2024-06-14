@@ -9,7 +9,7 @@ _site
    
 package-lock.json
    
-# IDE configurations
+## IDE configurations
 .idea
 .vscode
 
