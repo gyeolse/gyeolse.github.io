@@ -70,6 +70,7 @@ jobs:
 
   # Build job
   build:
+    needs: importer
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
