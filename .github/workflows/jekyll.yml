@@ -45,9 +45,9 @@ jobs:
           done
           rm -rf _posts/*
       
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@latest
         with:
-          node-version: "17"
+          node-version: "22"
 
       - run: npm install
 
